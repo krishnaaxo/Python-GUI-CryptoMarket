@@ -1,1 +1,1 @@
-# Python-GUI-CryptoMarket
+# Python-GUI-CryptoMarket-Wallet
